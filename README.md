@@ -96,6 +96,8 @@ Deepfake Speech Recall: 0.99
 
 Deepfake Speech F1 Score: 0.97
 
+App link - https://deepfake-audio-detection-6pjxvcdm5pgx7kb3kswahw.streamlit.app/
+
 ## Repository Contents
 
 app.py
